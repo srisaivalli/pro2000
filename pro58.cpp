@@ -10,5 +10,5 @@ int main()
   cin>>a>>b;
   avg=(a+b)/2;
   cout<<"your name is"<<str;
-  cout<<endl<<"and your sum is"<<sum;
+  cout<<endl<<"and your avg is"<<avg;
 }
